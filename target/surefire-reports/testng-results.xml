@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testing.TestEbay" duration-ms="21513" started-at="2018-12-03T17:31:53Z" finished-at="2018-12-03T17:32:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21513" started-at="2018-12-03T17:31:53Z" finished-at="2018-12-03T17:32:15Z">
+      <class name="Testing.TestEbay">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Testing.TestEbay@90f6bfd]" name="setUp" is-config="true" duration-ms="14755" started-at="2018-12-03T17:31:53Z" finished-at="2018-12-03T17:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findACheapCellpone()[pri:0, instance:Testing.TestEbay@90f6bfd]" name="findACheapCellpone" duration-ms="6737" started-at="2018-12-03T17:32:08Z" finished-at="2018-12-03T17:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findACheapCellpone -->
+      </class> <!-- Testing.TestEbay -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Testing.TestEbay -->
+</testng-results>
